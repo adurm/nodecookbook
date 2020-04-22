@@ -1,6 +1,6 @@
-# nodecookbook CHANGELOG
+# node CHANGELOG
 
-This file is used to list changes made in each version of the nodecookbook cookbook.
+This file is used to list changes made in each version of the node cookbook.
 
 # 0.1.0
 
